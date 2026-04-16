@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tanishq+Jain;Transforming+ideas+into+real-world+solutions;CS+Undergrad+%40+IIIT+Bhagalpur;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,8 +9,6 @@
 <div align="center">
   <a href="mailto:tanishqjain1109@gmail.com"><img src="https://img.shields.io/badge/Email-tanishqjain1109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/tanishq-jain"><img src="https://img.shields.io/badge/LinkedIn-Tanishq_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/tanishq-jain/"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/tanishqjain"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </div>
 
 ---
