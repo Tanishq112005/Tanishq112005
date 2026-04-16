@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <i>Let's connect and build something impactful. Drop a message on <a href="https://linkedin.com/in/tanishq-jain">LinkedIn</a>!</i>
+  <i>Let's connect and build something impactful. Drop a message on <a href="https://www.linkedin.com/in/tanishq-jain-6b90b1292/">LinkedIn</a>!</i>
 </div>
