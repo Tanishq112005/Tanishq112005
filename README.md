@@ -23,18 +23,13 @@
 ### 🔗 Projects
 
 <div align="center">
-  <h3><a href="https://jeearchive.netlify.app"><b>JEE Archive</b></a></h3>
-  <p><em>A comprehensive mock test platform designed for JEE students to practice and evaluate their preparation.</em></p>
-
-  <br>
-
-  <h3><a href="https://algodojo.vercel.app/"><b>AlgoDojo Contest Platform</b></a></h3>
-  <p><em>A full-stack contest hosting platform powered by dynamically scraping algorithmic problem data.</em></p>
-  
-  <br>
-
-  <h3><a href="https://momentum-umber.vercel.app/"><b>Momentum To-Do Dashboard</b></a></h3>
-  <p><em>A secure, full-stack personal dashboard and task management application built with the MERN stack and TypeScript.</em></p>
+  <p>
+    <a href="https://jeearchive.netlify.app" style="font-size: 110%;"><b>JEE Archive</b></a> — <em>A comprehensive mock test platform designed for JEE students to practice and evaluate their preparation.</em>
+    <br><br>
+    <a href="https://algodojo.vercel.app/" style="font-size: 110%;"><b>AlgoDojo Contest Platform</b></a> — <em>A full-stack contest hosting platform powered by dynamically scraping algorithmic problem data.</em>
+    <br><br>
+    <a href="https://momentum-umber.vercel.app/" style="font-size: 110%;"><b>Momentum To-Do Dashboard</b></a> — <em>A secure, full-stack personal dashboard and task management application built with the MERN stack and TypeScript.</em>
+  </p>
 </div>
 
 ---
