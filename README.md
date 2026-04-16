@@ -1,3 +1,5 @@
+<br><br><br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
 </div>
@@ -7,8 +9,17 @@
 </p>
 
 <div align="center">
+  <a href="https://drive.google.com/file/d/1L48gMLt4jNc6r34RGPgTmomiwAi_32Qv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_Here-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:tanishqjain1109@gmail.com"><img src="https://img.shields.io/badge/Email-tanishqjain1109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/tanishq-jain"><img src="https://img.shields.io/badge/LinkedIn-Tanishq_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+---
+
+### 🔗 Projects
+
+<div align="center">
+  <a href="YOUR_LINK_HERE"><b>JEE Archive</b></a> &nbsp; | &nbsp; <a href="YOUR_LINK_HERE"><b>AlgoDojo Contest Platform</b></a>
 </div>
 
 ---
@@ -39,5 +50,5 @@
 ---
 
 <div align="center">
-  <i>Let's connect and build something impactful. Drop a message on <a href="https://www.linkedin.com/in/tanishq-jain-6b90b1292/">LinkedIn</a>!</i>
+  <i>Let's connect and build something impactful. Drop a message on <a href="https://linkedin.com/in/tanishq-jain">LinkedIn</a>!</i>
 </div>
