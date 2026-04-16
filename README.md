@@ -1,12 +1,16 @@
-<br><br><br>
+<br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<br>
+
+<h4 align="center">
   <em>I am a Computer Science engineering student at the Indian Institute of Information Technology, Bhagalpur. My focus is on writing clean, optimized code to solve real-world problems and turning ambitious ideas into tangible, real-life applications. Alongside development, I am an active competitive programmer, constantly refining my algorithmic logic and problem-solving abilities.</em>
-</p>
+</h4>
+
+<br>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1L48gMLt4jNc6r34RGPgTmomiwAi_32Qv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_Here-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
@@ -19,7 +23,18 @@
 ### 🔗 Projects
 
 <div align="center">
-  <a href="YOUR_LINK_HERE"><b>JEE Archive</b></a> &nbsp; | &nbsp; <a href="YOUR_LINK_HERE"><b>AlgoDojo Contest Platform</b></a>
+  <h3><a href="https://jeearchive.netlify.app"><b>JEE Archive</b></a></h3>
+  <p><em>A comprehensive mock test platform designed for JEE students to practice and evaluate their preparation.</em></p>
+
+  <br>
+
+  <h3><a href="https://algodojo.vercel.app/"><b>AlgoDojo Contest Platform</b></a></h3>
+  <p><em>A full-stack contest hosting platform powered by dynamically scraping algorithmic problem data.</em></p>
+  
+  <br>
+
+  <h3><a href="https://momentum-umber.vercel.app/"><b>Momentum To-Do Dashboard</b></a></h3>
+  <p><em>A secure, full-stack personal dashboard and task management application built with the MERN stack and TypeScript.</em></p>
 </div>
 
 ---
