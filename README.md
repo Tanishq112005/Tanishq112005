@@ -1,9 +1,10 @@
+<br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF3366&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF3366&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Tanishq+Jain;Software+Developer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;CS+Undergrad+%40+IIIT+Bhagalpur;Transforming+ideas+into+real-world+solutions" alt="Typing SVG" />
 </div>
 <br>
 <h4 align="center">
-  <em>I am a Computer Science engineering student at the Indian Institute of Information Technology, Bhagalpur. My focus is on writing clean, optimized code to solve real-world problems and turning ambitious ideas into tangible, real-life applications. Alongside development, I am an active competitive programmer, constantly refining my algorithmic logic and problem-solving abilities.</em>
+  <em>I am a Computer Science engineering student at the Indian Institute of Information Technology, Bhagalpur. My focus is on writing clean, optimized code to solve real-world problems and turning ambitious ideas into tangible, real-life applications. Alongside development, I am an active competitive programmer and open source contributor, constantly refining my algorithmic logic, problem-solving abilities, and collaborating with the global developer community.</em>
 </h4>
 <br>
 <div align="center">
@@ -24,6 +25,19 @@
     <br><br>
     <a href="https://momentum-umber.vercel.app/" style="font-size: 110%;"><b>Momentum To-Do Dashboard</b></a> — <em>A secure, full-stack personal dashboard and task management application built with the MERN stack and TypeScript.</em>
   </p>
+</div>
+
+---
+
+### 🌍 Open Source Contributions
+
+<div align="center">
+
+| Project | Description | PR |
+|---|---|---|
+| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay-talk) | Fixed a cross-platform Docker deployment bug by correcting the container build sequence | [#2849](https://github.com/fossasia/eventyay-talk/pull/2849) |
+| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay-talk) | Enhanced backend form validation by implementing actionable, user-friendly error messages | [#2977](https://github.com/fossasia/eventyay-talk/pull/2977) |
+
 </div>
 
 ---
