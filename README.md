@@ -8,7 +8,7 @@
 </h4>
 <br>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1SXlGRj0Rvy4n2YuRrDzAqQX-X9W4vc9U/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_Here-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1cPDIW_QfHqRZ-79ZCeDco1lUu7LjIK5_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_Here-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:tanishqjain1109@gmail.com"><img src="https://img.shields.io/badge/Email-tanishqjain1109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/tanishq-jain"><img src="https://img.shields.io/badge/LinkedIn-Tanishq_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
