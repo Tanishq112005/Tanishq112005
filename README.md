@@ -58,12 +58,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq112005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq112005&theme=radical&hide_border=true" alt="GitHub Streak" height="195"/>
-</div>
 
 ---
 
