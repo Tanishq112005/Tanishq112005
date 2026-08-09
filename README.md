@@ -35,8 +35,8 @@
 
 | Project | Description | PR |
 |---|---|---|
-| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay-talk) | Fixed a cross-platform Docker deployment bug by correcting the container build sequence | [#2849](https://github.com/fossasia/eventyay-talk/pull/2849) |
-| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay-talk) | Enhanced backend form validation by implementing actionable, user-friendly error messages | [#2977](https://github.com/fossasia/eventyay-talk/pull/2977) |
+| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay) | Fixed a cross-platform Docker deployment bug by correcting the container build sequence | [#2849](https://github.com/fossasia/eventyay/pull/2849) |
+| 🌐 [**FOSSASIA – eventyay**](https://github.com/fossasia/eventyay) | Enhanced backend form validation by implementing actionable, user-friendly error messages | [#2977](https://github.com/fossasia/eventyay/pull/2977) |
 
 </div>
 
