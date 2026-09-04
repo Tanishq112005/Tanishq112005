@@ -19,13 +19,15 @@
 
 <div align="center">
   <p>
+    <a href="https://dukaan-avbodh.vercel.app/" style="font-size: 110%;"><b>Dukaan AI E-Commerce Platform</b></a> — <em>An AI-native platform where autonomous agents handle product discovery, dynamic price negotiation, and seamless Agent-to-Agent (A2A) transactions.</em>
+    <br><br>
+    <a href="https://trendly-mauve.vercel.app/" style="font-size: 110%;"><b>Trendly Agentic Support Assistant</b></a> — <em>An autonomous AI agent built for Trendly to handle customer support inquiries, track orders, process policy queries, and intelligently escalate tickets to humans.</em>
+    <br><br>
     <a href="https://jeearchive.netlify.app" style="font-size: 110%;"><b>JEE Archive</b></a> — <em>A comprehensive mock test platform designed for JEE students to practice and evaluate their preparation.</em>
     <br><br>
     <a href="https://algodojo.vercel.app/" style="font-size: 110%;"><b>AlgoDojo Contest Platform</b></a> — <em>A full-stack contest hosting platform powered by dynamically scraping algorithmic problem data.</em>
     <br><br>
     <a href="https://momentum-umber.vercel.app/" style="font-size: 110%;"><b>Momentum To-Do Dashboard</b></a> — <em>A secure, full-stack personal dashboard and task management application built with the MERN stack and TypeScript.</em>
-    <br><br>
-    <a href="https://trendly-mauve.vercel.app/"><b>Trendly Agentic Support Assistant</b></a> - <em>An autonomous AI agent built for Trendly to handle customer support inquiries, track orders, process policy queries, and intelligently escalate tickets to humans.</em>
   </p>
 </div>
 
